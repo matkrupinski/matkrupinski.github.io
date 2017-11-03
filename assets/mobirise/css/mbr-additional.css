@@ -1818,6 +1818,9 @@ body {
 .cid-qyTMVqcQe4 .progress5 .progressbar-number:before {
   content: '87';
 }
+.cid-qyTMVqcQe4 .progress6 .progressbar-number:before {
+  content: '45';
+}
 @media (min-width: 768px) {
   .cid-qyTMVqcQe4 .text-elements {
     padding-right: 3rem;
